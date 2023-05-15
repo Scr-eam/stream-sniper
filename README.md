@@ -2,4 +2,4 @@
 roblox stream sniper by Scream
 
 # todo
-- maybe increase speeds to the max?
+- re-write, this code is fucking atrocious
